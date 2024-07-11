@@ -1,4 +1,4 @@
-// Governor Sindth IT Course
+// Governor Sindh IT Course
 // Name : Muhammad Faizan
 // Contact (FOR ANY HELP) : 0321-2322629 (WHATSAPP)
 // Advanced ATM Project
